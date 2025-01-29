@@ -51,7 +51,7 @@ const Hero = () => {
           {/* <SocialLink icon={<Mail />} href="mailto:harisivam203@gmail.com" /> */}
         </div>
         <a
-          href="https://drive.google.com/file/d/10N-5xCuupyTsN18SPoQpcEmxRATBiedd/view?usp=sharing"
+          href="https://drive.google.com/file/d/1hUWaeVAJQL7Gr-XCVMtH1vmTijSYv5tt/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
         >
