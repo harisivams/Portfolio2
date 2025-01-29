@@ -40,7 +40,7 @@ const Hero = () => {
           <span className={`${showCursor ? 'opacity-100' : 'opacity-0'} transition-opacity duration-100`}>|</span>
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-8 opacity-0 animate-fadeIn">
-          Applicaation Developer <br /> <br />
+          Application Developer <br /> <br />
           Building beautiful, functional apps for Android & iOS 
         </p>
 
