@@ -1,12 +1,18 @@
 import React, { useState } from 'react';
 import { ExternalLink, Github } from 'lucide-react';
+import project1 from '../image/emotion.jpg';
+import project2 from '../image/project2.png';
+import project3 from '../image/project3.png';
+import project5 from '../image/project5.png';
+import project6 from '../image/project6.png';
+
 // import photo1 from '../image/photo1.png';
 const Projects = () => {
   const projects = [
     {
       title: 'Emotion Detection and user Identification',
       description: 'Developed an AI-driven emotion detection and user identification system using facial recognition, with audio output for enhanced accessibility for visually impaired users. 🎧',
-      image: 'src/images/emotion.jpg',
+      image: project1,
       tags: ['Python', 'MySQL'],
       github: 'https://github.com/harisivams/Vision_Empower',
       demo: 'https://github.com/harisivams/Vision_Empower'
@@ -14,7 +20,7 @@ const Projects = () => {
     {
       title: 'E-token management system',
       description: 'The E-Token Management System is a Flutter-based digital queue solution that generates and manages electronic tokens for efficient service appointments. 🚀',
-      image: 'src/images/project2.png',
+      image: project2,
       tags: ['Flutter', 'Dart', 'Firebase'],
       github: 'https://github.com/harisivams/E-Token',
       demo: 'https://github.com/harisivams/E-Token'
@@ -22,7 +28,7 @@ const Projects = () => {
     {
       title: 'College Bus Tracking System',
       description: 'The College Bus Tracking System is a Flutter-based application that enables real-time tracking of college buses, ensuring safe and efficient transportation for students. 🚌📍',
-      image: 'src/images/project3.png',
+      image: project3,
       tags: ['Flutter', 'Dart', 'Firebase','API'],
       github: 'https://github.com/harisivams/Bus_Tracking',
       demo: 'https://github.com/harisivams/Bus_Tracking'
@@ -30,7 +36,7 @@ const Projects = () => {
     {
       title: 'Replicating UI Design',
       description: 'Replicating UI designs using Flutter to create visually consistent and responsive user interfaces. 🎨',
-      image: 'src/images/project5.png',
+      image: project5,
       tags: ['Flutter', 'Dart', 'API'],
       github: 'https://github.com/harisivams/Flutter_task',
       demo: 'https://github.com/harisivams/Flutter_task'
@@ -38,7 +44,7 @@ const Projects = () => {
     {
       title: 'Call Log App',
       description: 'Developed a Flutter app to access and display call logs, providing users with detailed call history. 📞',
-      image: 'src/images/project6.png',
+      image: project6,
       tags: ['Flutter', 'Dart', 'API'],
       github: 'https://github.com/harisivams/call_logs',
       demo: 'https://github.com/harisivams/call_logs'

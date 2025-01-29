@@ -52,7 +52,7 @@ const About = () => {
               <SkillCard
                 icon={<Rocket className="w-8 h-8 text-purple-600" />}
                 title="Personal Projects"
-                description="Developed 3 apps using Flutter."
+                description="Developed 4 apps using Flutter."
               />
             </div>
           </div>
