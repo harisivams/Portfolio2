@@ -6,7 +6,7 @@ const Projects = () => {
     {
       title: 'Emotion Detection and user Identification',
       description: 'Developed an AI-driven emotion detection and user identification system using facial recognition, with audio output for enhanced accessibility for visually impaired users. 🎧',
-      image: '/images/emotion.jpg',
+      image: 'src/images/emotion.jpg',
       tags: ['Python', 'MySQL'],
       github: 'https://github.com/harisivams/Vision_Empower',
       demo: 'https://github.com/harisivams/Vision_Empower'
@@ -14,7 +14,7 @@ const Projects = () => {
     {
       title: 'E-token management system',
       description: 'The E-Token Management System is a Flutter-based digital queue solution that generates and manages electronic tokens for efficient service appointments. 🚀',
-      image: '/images/project2.png',
+      image: 'src/images/project2.png',
       tags: ['Flutter', 'Dart', 'Firebase'],
       github: 'https://github.com/harisivams/E-Token',
       demo: 'https://github.com/harisivams/E-Token'
@@ -22,7 +22,7 @@ const Projects = () => {
     {
       title: 'College Bus Tracking System',
       description: 'The College Bus Tracking System is a Flutter-based application that enables real-time tracking of college buses, ensuring safe and efficient transportation for students. 🚌📍',
-      image: '/images/project3.png',
+      image: 'src/images/project3.png',
       tags: ['Flutter', 'Dart', 'Firebase','API'],
       github: 'https://github.com/harisivams/Bus_Tracking',
       demo: 'https://github.com/harisivams/Bus_Tracking'
@@ -30,7 +30,7 @@ const Projects = () => {
     {
       title: 'Replicating UI Design',
       description: 'Replicating UI designs using Flutter to create visually consistent and responsive user interfaces. 🎨',
-      image: '/images/project5.png',
+      image: 'src/images/project5.png',
       tags: ['Flutter', 'Dart', 'API'],
       github: 'https://github.com/harisivams/Flutter_task',
       demo: 'https://github.com/harisivams/Flutter_task'
@@ -38,7 +38,7 @@ const Projects = () => {
     {
       title: 'Call Log App',
       description: 'Developed a Flutter app to access and display call logs, providing users with detailed call history. 📞',
-      image: '/images/project6.png',
+      image: 'src/images/project6.png',
       tags: ['Flutter', 'Dart', 'API'],
       github: 'https://github.com/harisivams/call_logs',
       demo: 'https://github.com/harisivams/call_logs'
